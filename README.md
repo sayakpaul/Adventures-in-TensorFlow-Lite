@@ -12,7 +12,7 @@ This repository contains notebooks that show the usage of TensorFlow Lite for qu
 - [Quantization aware training with TensorFlow Model Optimization Toolkit](https://blog.tensorflow.org/2020/04/quantization-aware-training-with-tensorflow-model-optimization-toolkit.html)
 
 ## An accompanying deck on TensorFlow Lite
-- I often talk about TensorFlow Lite and here's the deck I mostly use: bit.ly/tfl-pune. 
+- I often talk about TensorFlow Lite and here's the deck I mostly use: http://bit.ly/tfl-pune. 
 
 ## Acknowledgements
 - [Arun Venkatesan](https://www.linkedin.com/in/sayak-paul/)
