@@ -4,7 +4,7 @@ This repository contains notebooks that show the usage of TensorFlow Lite for qu
 ![](https://i.ibb.co/yRvmXY2/dEL9T1vg.png)
 
 ## About the notebooks
-- `A_tale_of_quantization.ipynb`: A comprehensive notebook showing different ways to quantize a model in `tf.keras` (with fine-tuning). It includes both **quantization-aware training** as well as **post-training quantization**. 
+- `A_tale_of_quantization.ipynb`: A comprehensive notebook showing different ways to quantize a model in `tf.keras` (with fine-tuning). It includes both **quantization-aware training** as well as **post-training quantization**. This notebook is accompanied by [this report](https://bit.ly/3dlCRSI) that has some additional details and performance considerations. The notebook is best referred with this report. 
 - `Custom_Image_Classification_EdgeTPU.ipynb`: It shows how to use post-training quantization with a representative dataset to calibrate the dynamic ranges of activations. It also shows how to quantize the model in a way that is compatible with an Edge TPU USB Accelerator. 
 
 ## References
@@ -15,5 +15,6 @@ This repository contains notebooks that show the usage of TensorFlow Lite for qu
 - I often talk about TensorFlow Lite and here's the deck I mostly use: http://bit.ly/tfl-pune. 
 
 ## Acknowledgements
-- [Arun Venkatesan](https://www.linkedin.com/in/sayak-paul/)
+- [Arun Venkatesan](https://www.linkedin.com/in/arun-venkatesan-9317796/)
 - [Khanh LeViet](https://www.linkedin.com/in/lvgk/)
+- [Pulkit Bhuwalka](https://www.linkedin.com/in/pulkitbhuwalka/)
