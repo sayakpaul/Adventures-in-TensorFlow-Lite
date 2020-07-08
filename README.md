@@ -1,5 +1,5 @@
 # Adventures-in-TensorFlow-Lite
-This repository contains notebooks that show the usage of TensorFlow Lite for quantizing deep neural networks in TensorFlow 2. *It is currently under active development so, there might be some inconsistencies in the description below*. 
+This repository contains notebooks that show the usage of TensorFlow Lite for quantizing deep neural networks in TensorFlow 2. ***It is currently under active development so, there might be some inconsistencies in the description below***. 
 
 ![](https://www.tensorflow.org/site-assets/images/project-logos/tensorflow-lite-logo-social.png)
 
