@@ -1,7 +1,7 @@
 # Adventures-in-TensorFlow-Lite
 This repository contains notebooks that show the usage of TensorFlow Lite (TF Lite) for quantizing deep neural networks in TensorFlow 2. ***It is currently under active development so, there might be some inconsistencies in the description below***. 
 
-![](https://i.ibb.co/mbT8CZX/tensorflow-lite-logo-social-1.png)
+<center>![]<img src='https://i.ibb.co/mbT8CZX/tensorflow-lite-logo-social-1.png'></img></center>
 
 ## About the notebooks
 - `A_tale_of_quantization.ipynb`: A comprehensive notebook showing different ways to quantize a model in `tf.keras` (with fine-tuning). It includes both **quantization-aware training** as well as **post-training quantization**. This notebook is accompanied by [this report](https://bit.ly/3dlCRSI) that has some additional details and performance considerations. The notebook is best referred with this report. 
