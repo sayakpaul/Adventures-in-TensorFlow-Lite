@@ -16,7 +16,7 @@ This repository contains notebooks that show the usage of TensorFlow Lite (TF Li
 - `Semantic_Segmentation_+_Background_Removal_+_Style_Transfer.ipynb`: Presents a demo on how to use multiple TF Lite models to run segmentation, remove background, and apply stylization. 
 - `Style_Transfer_Demo.ipynb` & `Style_Transfer_Demo_InceptionV3.ipynb`: Present interactive image stylization demos. 
 - `TUNIT_Conversion_to_TF_Lite.ipynb`: Shows the PyTorch -> TF Lite model conversion worflow (this is currently buggy).
-- `CartoonGAN_TFLite.ipynb`: Shows to how to convert the CartoonGAN model (proposed [here](https://bit.ly/cartoon-gan)) to a TF Lite model. Includes how to run inference as well. 
+- `CartoonGAN_TFLite.ipynb`: Shows to how to convert the CartoonGAN model (proposed [here](https://bit.ly/cartoon-gan)) to a TF Lite model. Includes how to run inference as well. Here's the [official TensorFlow blog](https://github.com/SystemErrorWang/White-box-Cartoonization) in case you are interested to know more. 
 
 ## References
 - [Post-training quantization](https://www.tensorflow.org/lite/performance/post_training_quantization)
