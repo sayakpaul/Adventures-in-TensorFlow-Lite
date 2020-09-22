@@ -27,7 +27,7 @@ This repository contains notebooks that show the usage of TensorFlow Lite (TF Li
 - [Model optimization 101](http://bit.ly/mo-101)
 - [A few good stuff in TF Lite](http://bit.ly/stuff-tflite)
 - [A Tale of Model Quantization in TF Lite](https://bit.ly/3dlCRSI)
-- [Scooping into Model Pruning in Deep Learning](https://bit.ly/2AJ67W4)
+- [Plunging into Model Pruning in Deep Learning](https://bit.ly/2AJ67W4)
 
 ## Find the models on TF Hub
 
