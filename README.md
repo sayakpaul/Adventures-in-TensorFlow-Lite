@@ -29,6 +29,7 @@ This repository contains notebooks that show the usage of TensorFlow Lite (TF Li
 - [A Tale of Model Quantization in TF Lite](https://bit.ly/3dlCRSI)
 - [Plunging into Model Pruning in Deep Learning](https://bit.ly/2AJ67W4)
 - [Optimizing MobileDet for Mobile Deployments](https://sayak.dev/mobiledet-optimization/)
+- [Peer Bonus Experiences: Building tiny models for the ML community with TensorFlow](https://opensource.googleblog.com/2020/10/peer-bonus-experiences-building-tiny.html)
 
 ## Find the models on TF Hub
 
