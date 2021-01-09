@@ -18,6 +18,7 @@ This repository contains notebooks that show the usage of TensorFlow Lite (TF Li
 - `TUNIT_Conversion_to_TF_Lite.ipynb`: Shows the PyTorch -> TF Lite model conversion worflow (this is currently buggy).
 - `CartoonGAN_TFLite.ipynb`: Shows to how to convert the CartoonGAN model (proposed [here](https://bit.ly/cartoon-gan)) to a TF Lite model. Includes how to run inference as well. Here's the [official TensorFlow blog](https://github.com/SystemErrorWang/White-box-Cartoonization) in case you are interested to know more. 
 - `EAST_TFLite.ipynb`: Shows how to convert the famous [EAST](https://arxiv.org/abs/1704.03155) model for text detection to TensorFlow Lite. 
+- `Boundless_TFLite.ipynb`: Shows how to convert the famous [Boundless](https://arxiv.org/pdf/1908.07007.pdf) model for image extrapolation to TensorFlow Lite. 
 
 ## References
 - [Post-training quantization](https://www.tensorflow.org/lite/performance/post_training_quantization)
