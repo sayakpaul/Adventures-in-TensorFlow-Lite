@@ -40,6 +40,10 @@ https://tfhub.dev/s?publisher=sayakpaul
 
 ![](https://i.ibb.co/zJSFjPs/Screen-Shot-2020-07-11-at-3-14-52-PM.png)
 
+## Other notable repositories covering similar things
+* [tulasiram58827/ocr_tflite](https://github.com/tulasiram58827/ocr_tflite)
+* [tulasiram58827/TTS_TFLite](https://github.com/tulasiram58827/TTS_TFLite)
+
 
 ## Acknowledgements
 - [Arun Venkatesan](https://www.linkedin.com/in/arun-venkatesan-9317796/)
